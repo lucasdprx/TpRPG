@@ -1,5 +1,6 @@
 
 using TpRPG;
+using TpRPG.Factory;
 
 class Program
 {
@@ -9,12 +10,6 @@ class Program
         
         BaseEntity entity1 = new BaseEntity();
         BaseEntity entity2 = new BaseEntity();
-    
-        entity1.attackStrategies = new List<IAttackStrategy>()
-        {
-            new AttackStrategy(),
-            new CritStrategy()
-        };
     
         entity1.damage = 25;
         entity2.health = 100;
@@ -69,9 +64,22 @@ class Program
                 var pos = player.position;
                 tilemap.MoveEntity(player, (pos.Item1 - direction.Item1, pos.Item2 - direction.Item2), pos);
             }
+            
+            EntityFactory factory = new();
+            IEntity player2 = factory.AsPlayer().WithDefense(10).Build();
+            Monster monster = (Monster)factory.AsMonster().WithHealth(120).Build();
+    
+            QuestFactory questFactory = new();
+            Quest questCHAD = questFactory.WithName("GigaChad").WithDescription("Devient le roi des CHAD").Build();
+
 
             Console.WriteLine();
             minimap.Display();
         }
     }
+}
+
+class Monster : BaseEntity
+{
+    
 }

@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/dodo/.nuget/packages/": {}
+    "C:\\Users\\darpe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dodo/Documents/GitHub/TpRPG/TpRPG/TpRPG/TpRPG.csproj",
+      "projectUniqueName": "C:\\Users\\darpe\\Documents\\GitHub\\TpRPG\\TpRPG\\TpRPG\\TpRPG.csproj",
       "projectName": "TpRPG",
-      "projectPath": "/home/dodo/Documents/GitHub/TpRPG/TpRPG/TpRPG/TpRPG.csproj",
-      "packagesPath": "/home/dodo/.nuget/packages/",
-      "outputPath": "/home/dodo/Documents/GitHub/TpRPG/TpRPG/TpRPG/obj/",
+      "projectPath": "C:\\Users\\darpe\\Documents\\GitHub\\TpRPG\\TpRPG\\TpRPG\\TpRPG.csproj",
+      "packagesPath": "C:\\Users\\darpe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\darpe\\Documents\\GitHub\\TpRPG\\TpRPG\\TpRPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/dodo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\darpe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -60,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[10.0.0, 10.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\darpe\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
