@@ -11,7 +11,7 @@ public class FightResolver
         strategies.Add(new CritStrategy());
     }
 
-    public int Resolve(IEntity attacker, IEntity target)
+    public void Resolve(IEntity attacker, IEntity target)
     { 
         int currentDamage = 0;
         
