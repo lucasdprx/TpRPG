@@ -1,4 +1,6 @@
-﻿namespace TpRPG;
+﻿using TpRPG.Attacks;
+
+namespace TpRPG;
 
 public class BaseEntity : IEntity
 {
@@ -6,12 +8,22 @@ public class BaseEntity : IEntity
     public int damage { get; set; }
     
     public int defense { get; set; }
-    public List<IAttackStrategy> attackStrategies { get; set; } = new();
-    public AttackProcessor attackProcessor { get; set; } = new();
+    public FightResolver fightResolver { get; set; } = new();
     public Action onDeath { get; set; }
 
     public void Attack(IEntity target)
     {
-        attackProcessor.DoAttack(attackStrategies, this, target);
+        fightResolver.Resolve(this, target);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+        
+        if (health <= 0)
+        {
+            health = 0;
+            onDeath?.Invoke();
+        }
     }
 }
