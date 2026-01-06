@@ -8,24 +8,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85b7cd97-2f73-4d93-81e2-21f682539cfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TpRPG/ICommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpRPG/Minimap.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpRPG/MovementCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TpRPG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TpRPG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Entity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/IObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/IObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/Tile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Tile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/Tilemap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Tilemap.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/ref/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/ref/TpRPG.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/refint/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/refint/TpRPG.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpRPG/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/rider.project.model.nuget.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TpRPG/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/IObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/Minimap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/MovementCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/Tile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/Tilemap.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -37,11 +60,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Project.TpRPG.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Part1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767690408293</updated>
       <workItem from="1767690409985" duration="741000" />
+      <workItem from="1767699358759" duration="5031000" />
     </task>
     <servers />
   </component>
