@@ -7,25 +7,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b7cd97-2f73-4d93-81e2-21f682539cfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/TpRPG.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="85b7cd97-2f73-4d93-81e2-21f682539cfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TpRPG/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/IObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/Minimap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/MovementCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/Tile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TpRPG/Tilemap.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -35,21 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.TpRPG.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "Rebasing Part1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TpRPG" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -81,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767690408293</updated>
       <workItem from="1767690409985" duration="741000" />
+      <workItem from="1767699358759" duration="5031000" />
     </task>
     <servers />
   </component>
