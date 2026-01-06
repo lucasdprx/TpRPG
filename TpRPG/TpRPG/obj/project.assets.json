@@ -8,24 +8,31 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\darpe\\.nuget\\packages\\": {}
+    "C:\\Users\\lukab\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darpe\\Documents\\GitHub\\TpRPG\\TpRPG\\TpRPG\\TpRPG.csproj",
+      "projectUniqueName": "C:\\Users\\lukab\\Downloads\\GitHub\\TpRPG\\TpRPG\\TpRPG\\TpRPG.csproj",
       "projectName": "TpRPG",
-      "projectPath": "C:\\Users\\darpe\\Documents\\GitHub\\TpRPG\\TpRPG\\TpRPG\\TpRPG.csproj",
-      "packagesPath": "C:\\Users\\darpe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darpe\\Documents\\GitHub\\TpRPG\\TpRPG\\TpRPG\\obj\\",
+      "projectPath": "C:\\Users\\lukab\\Downloads\\GitHub\\TpRPG\\TpRPG\\TpRPG\\TpRPG.csproj",
+      "packagesPath": "C:\\Users\\lukab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lukab\\Downloads\\GitHub\\TpRPG\\TpRPG\\TpRPG\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\darpe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lukab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\darpe\\.dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
