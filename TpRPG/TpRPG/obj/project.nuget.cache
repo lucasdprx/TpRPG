@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1fAn3yl7M8g=",
+  "dgSpecHash": "fasdij2aZ/c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukab\\Downloads\\GitHub\\TpRPG\\TpRPG\\TpRPG\\TpRPG.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/dodo/Documents/GitHub/TpRPG/TpRPG/TpRPG/TpRPG.csproj",
+  "expectedPackageFiles": [
+    "/home/dodo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
