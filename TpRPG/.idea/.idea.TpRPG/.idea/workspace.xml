@@ -7,30 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b7cd97-2f73-4d93-81e2-21f682539cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TpRPG/ICommand.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpRPG/Minimap.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpRPG/MovementCommand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TpRPG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TpRPG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Entity.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/IObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/IObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/Tile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Tile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/Tilemap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/Tilemap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/bin/Debug/net10.0/TpRPG.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/TpRPG.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/ref/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/ref/TpRPG.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/refint/TpRPG.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/Debug/net10.0/refint/TpRPG.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TpRPG/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/TpRPG/obj/rider.project.model.nuget.info" afterDir="false" />
-    </list>
+    <list default="true" id="85b7cd97-2f73-4d93-81e2-21f682539cfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,22 +35,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.TpRPG.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Part1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.TpRPG.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "Rebasing Part1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="TpRPG" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
