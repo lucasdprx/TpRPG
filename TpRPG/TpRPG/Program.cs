@@ -1,4 +1,5 @@
-namespace TpRPG;
+
+using TpRPG;
 
 class Program
 {
@@ -68,7 +69,6 @@ class Program
                 var pos = player.position;
                 tilemap.MoveEntity(player, (pos.Item1 - direction.Item1, pos.Item2 - direction.Item2), pos);
             }
-    
 
             Console.WriteLine();
             minimap.Display();
